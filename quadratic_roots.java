@@ -1,5 +1,5 @@
 import java.util.*;
-class maths
+class quadratic_roots
 	{
 		int a,b,c;
 		maths()
