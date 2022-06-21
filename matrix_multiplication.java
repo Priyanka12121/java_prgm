@@ -1,5 +1,5 @@
 import java.util.*;
-class matrix1
+class matrix_multiplication
 {
 	int r,c,i,j;
 	int a[][];
