@@ -1,5 +1,5 @@
 import java.util.*;
-class abc2
+class add_two_no
 {
 int a,b,c;
 void inp()
