@@ -1,5 +1,5 @@
 import java.util.*;
-class string1
+class string_palindrome
 {
 	public static void main(String args[])
 	{
