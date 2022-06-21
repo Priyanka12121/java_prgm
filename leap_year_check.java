@@ -1,5 +1,5 @@
 import java.util.*;
-class leap
+class leap_year_check
 {
 	public static void main(String args[])
 	{
