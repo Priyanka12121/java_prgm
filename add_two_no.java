@@ -19,7 +19,7 @@ System.out.println("the sum is="+c);
 }
 public static void main(String args[])
 {
-abc2 ob=new abc2();
+add_two_no ob=new add_two_no();
 ob.inp();
 ob.add();
 ob.disp();
