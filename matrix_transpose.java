@@ -1,5 +1,5 @@
 import java.util.*;
-class matrix2
+class matrix_transpose
 {
 	int a[][];
 	int b[][];
